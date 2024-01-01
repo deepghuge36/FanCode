@@ -28,9 +28,7 @@ https://api.themoviedb.org/3/genre/movie/list?language=en&sort_by=popularity.des
 
 ## Screenshots
 
-'./public/img/desktop.png'
-'./public/img/mobile.png'
-![Desktop Screenshot](https://raw.githubusercontent.com/deepghuge36/FanCode/master/public/img/desktop.png?token=GHSAT0AAAAAACMHX4P6D4CXQDAACNBE65U6ZMTIRPA)
+![Desktop Screenshot](https://raw.githubusercontent.com/deepghuge36/FanCode/master/public/img/desktop.png?token=GHSAT0AAAAAACMHX4P6H5D4A3TPZZ47RN44ZMTI3SQ)
 
 ![Mobile Screenshot](https://raw.githubusercontent.com/deepghuge36/FanCode/master/public/img/mobile.png?token=GHSAT0AAAAAACMHX4P7IIULMCU235ZXBC3SZMTITNQ)
 
