@@ -17,6 +17,7 @@ const Logo = styled.h1`
   text-transform: uppercase;
   font-weight: bold;
   color: red;
+  cursor: pointer;
 
   @media (max-width: 768px) {
     font-size: 20px;
@@ -26,7 +27,7 @@ const Logo = styled.h1`
 const Navbar = () => {
   return (
     <NavBar>
-      <Logo>Moviefix</Logo>
+      <Logo onClick={() => window.location.reload()}>Moviefix</Logo>
     </NavBar>
   );
 };
