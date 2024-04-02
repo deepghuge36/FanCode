@@ -7,7 +7,7 @@ import Genre from '../components/Genre';
 import Navbar from '../components/Navbar';
 
 const Home = () => {
-  const [currentYear, setCurrentYear] = useState(2012);
+  const [currentYear, setCurrentYear] = useState(new Date().getFullYear());
   const [currentPage, setCurrentPage] = useState(1);
   const [allMovies, setAllMovies] = useState({}); // Maintain movies grouped by year
 
